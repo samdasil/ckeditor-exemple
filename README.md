@@ -10,7 +10,7 @@ Utilizei o builder disponível no site oficial da CKEditor para realizar o downl
 https://ckeditor.com/cke4/builder
 
 ### CKFinder
-A integração dessa ferramento permite o tratamento e gerenciamento de imagens que serão utilizadas no editor.
+A integração dessa ferramenta permite o tratamento e gerenciamento de imagens que serão utilizadas no editor.
 Disponível para download em: 
 https://ckeditor.com/ckfinder/download/
 
