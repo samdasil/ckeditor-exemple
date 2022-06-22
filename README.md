@@ -18,3 +18,6 @@ Para estilização, apenas poucos recursos para melhorar um pouco o visual.
 
 ### PHP 7.4
 Apenas para realizar a criação de arquivos gerados no editor.
+
+
+Este mini projeto foi baseado no tutorial encontrado no link https://www.youtube.com/watch?v=KhFvwvQgMaA 
